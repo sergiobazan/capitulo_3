@@ -36,17 +36,6 @@ Epics
 
 A continuación, se redactarán las historias de usuario de nuestra aplicación. Estas manifestarán las necesidades que tiene cada uno de los involucrados en la Plataforma. Es decir, se representarán los requisitos que tiene la app. Además, se mostrarán los criterios de aceptación que contendrán cada uno de los posibles escenarios que involucran a cada US. Finalmente, se mostrarán las Epics con las que están relacionados.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 685px">
 <colgroup>
 <col style="width: 188.2px">
@@ -80,17 +69,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 685px">
 <colgroup>
 <col style="width: 188.2px">
@@ -124,17 +102,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 685px">
 <colgroup>
 <col style="width: 188.2px">
@@ -168,15 +135,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -204,15 +162,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -239,15 +188,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   </tr>
 </tbody>
 </table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -274,15 +214,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   </tr>
 </tbody>
 </table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -309,15 +240,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   </tr>
 </tbody>
 </table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -345,15 +267,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -381,15 +294,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -417,15 +321,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -452,15 +347,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   </tr>
 </tbody>
 </table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -488,15 +374,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -524,15 +401,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -560,15 +428,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -596,15 +455,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -632,15 +482,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -668,15 +509,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -704,15 +536,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -740,15 +563,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -776,15 +590,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -812,15 +617,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -848,15 +644,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -884,15 +671,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -920,15 +698,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -956,15 +725,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -992,15 +752,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -1028,15 +779,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -1064,15 +806,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
